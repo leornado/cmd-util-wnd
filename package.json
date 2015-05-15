@@ -1,8 +1,8 @@
 {
-  "name": "cmd-util",
-  "version": "0.3.13",
+  "name": "cmd-util-wnd",
+  "version": "0.0.1",
   "description": "Utilities for common module definition.",
-  "author": "Hsiaoming Yang <me@lepture.com>",
+  "author": "leornado",
   "dependencies": {
     "uglify-js": "~2.3.6"
   },
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spmjs/cmd-util.git"
+    "url": "https://github.com/leornado/cmd-util-wnd.git"
   },
   "bugs": {
-    "url": "https://github.com/spmjs/cmd-util/issues"
+    "url": "https://github.com/leornado/cmd-util-wnd/issues"
   },
   "keywords": [
     "cmd",
