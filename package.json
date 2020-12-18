@@ -1,6 +1,6 @@
 {
   "name": "cmd-util-wnd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Utilities for common module definition.",
   "author": "leornado",
   "dependencies": {
